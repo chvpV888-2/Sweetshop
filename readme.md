@@ -4,7 +4,6 @@ A full-stack web application for managing and purchasing sweets. This project de
 
 ## 🚀 Live Demo
 **[Click here to view the Live Application](https://sweetshop-frontend-taupe.vercel.app/)**
-*(Replace the link above with your actual Vercel URL)*
 
 ---
 
